@@ -1,0 +1,13 @@
+You'll need a local web server set up for the code challenge. Setting one up shouldn't be difficult, but you may find the following links useful if you've never set one up before:
+
+MAC:
+
+OSX used to have a 'Web Sharing' feature but it was removed in Mountain Lion. Please see this article for setting up your local server:
+
+help: http://osxdaily.com/2012/09/02/start-apache-web-server-mac-os-x/.
+
+Alternitively, if you prefer a GUI, try Anvil: http://anvilformac.com/.
+
+PC:
+
+We recommend using XAMPP as it's a relatively simple install: http://www.apachefriends.org/en/xampp-windows.html#522

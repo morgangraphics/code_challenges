@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{icc.name}}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    {{{block "stylesheets"}}}
+  </head>
+  <body>
+    {{>header}}
+    <div class="page">
+      {{{body}}}
+    </div>
+    {{>footer}}
+    {{{block "scripts"}}}
+  </body>
+</html>
